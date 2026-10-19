@@ -31,7 +31,7 @@ TextLens AI is a Generative AI project that analyses writing patterns using the 
 
 1. Clone this repository:
    
-   "git clone https://github.com/YOUR_USERNAME/textlens-ai.git"
+   "git clone https://github.com/priyanshumundepi/textlens-ai.git"
 
 2. Open the project folder:
    
